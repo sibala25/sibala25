@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @sibala25
-- 👀 I’m a fourth year at UCLA studying Cognitive Science and Data Science Engineering. I'm interested in data analytics and data science.
+👋 Hi, I’m Aashna
+- 👀 I’m a fourth year at UCLA studying Cognitive Science and Data Science Engineering, interested in data analytics and data science. Specifically, I'm eager to learn more about ML approaches in healthcare.
 - 🌱 Skills:
-* Cloud/Programming: Azure Databricks/Logic Apps/DevOps, Jupyter, Python, R, SQL, C++
-* AI/Machine Learning: OpenAI, NLP, TensorFlow, PyTorch, Keras, Logistic Regression
-* Data Analysis: Pandas, NumPy, Scikit-Learn, Regex, Tidyverse
-* Data Visualization: Ggplot2, Matplotlib, Seaborn, Tableau, PowerBI, MS Excel
-* Methodologies: Agile/Scrum
-- 📫 Contact Me:
-* Linkedin: linkedin.com/in/aashna-sibal/
-* Email: aashnasibal@gmail.com
+  * Cloud/Programming: Azure Databricks/Logic Apps/DevOps, Jupyter, Python, R, SQL, C++
+  * AI/Machine Learning: OpenAI, NLP, TensorFlow, PyTorch, Keras, Logistic Regression
+  * Data Analysis: Pandas, NumPy, Scikit-Learn, Regex, Tidyverse
+  * Data Visualization: Ggplot2, Matplotlib, Seaborn, Tableau, PowerBI, MS Excel
+  * Methodologies: Agile/Scrum
+- 📫 Contact:
+  * Linkedin: linkedin.com/in/aashna-sibal/
+  * Email: aashnasibal@gmail.com
 - 😄 Pronouns: she/her
 
 <!---
