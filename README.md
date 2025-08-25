@@ -1,5 +1,5 @@
 👋 Hi, I’m Aashna
-- 👀 I’m a fourth year at UCLA studying Cognitive Science and Data Science Engineering, interested in data analytics and data science. Specifically, I'm eager to learn more about ML approaches in healthcare.
+- 👀 I’m a recent graduate of UCLA, where I studied Cognitive Science and Data Science Engineering. I'm interested in opportunities in data science and data analytics, specifically in healthcare or think tanks.
 - 🌱 Skills:
   * Cloud/Programming: Azure Databricks, Logic Apps, DevOps, Jupyter, Python, R, SQL, C++
   * AI/Machine Learning: OpenAI, NLP, TensorFlow, PyTorch, Keras, Logistic Regression
