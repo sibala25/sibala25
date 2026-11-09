@@ -2,7 +2,7 @@
 
 I'm a **Data Scientist** and UCLA graduate with a B.S. in Cognitive Science, a minor in Data Science Engineering, and a specialization in Computing.
 
-I enjoy finding patterns in data, understanding what drives them, and using those findings to answer practical questions. My work spans machine learning, data analytics, data engineering, and NLP, with a particular interest in human behavior and social issues.
+I enjoy finding patterns in data, understanding what drives them, and using those findings to answer critical questions. My work spans machine learning, data analytics, data engineering, and NLP, with a particular interest in human behavior and social issues.
 
 ## Technical Skills
 
