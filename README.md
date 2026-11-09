@@ -1,17 +1,24 @@
-👋 Hi, I’m Aashna
-- 👀 I’m a recent graduate of UCLA, where I studied Cognitive Science and Data Science Engineering. I'm interested in opportunities in data science and data analytics, specifically in healthcare or think tanks.
-- 🌱 Skills:
-  * Cloud/Programming: Azure Databricks, Logic Apps, DevOps, Jupyter, Python, R, SQL, C++
-  * AI/Machine Learning: OpenAI, NLP, TensorFlow, PyTorch, Keras, Logistic Regression
-  * Data Analysis: Pandas, NumPy, Scikit-Learn, Regex, Tidyverse
-  * Data Visualization: Ggplot2, Matplotlib, Seaborn, Tableau, PowerBI, MS Excel
-  * Methodologies: Agile/Scrum
-- 📫 Contact:
-  * Linkedin: linkedin.com/in/aashna-sibal/
-  * Email: aashnasibal@gmail.com
-- 😄 Pronouns: she/her
+# Aashna Sibal
 
-<!---
-sibala25/sibala25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Data Scientist** and UCLA graduate with a B.S. in Cognitive Science, a minor in Data Science Engineering, and a specialization in Computing.
+
+I enjoy finding patterns in data, understanding what drives them, and using those findings to answer practical questions. My work spans machine learning, data analytics, data engineering, and NLP, with a particular interest in human behavior and social issues.
+
+## Technical Skills
+
+- **Languages:** Python, SQL, R, C++
+- **Machine Learning & Analytics:** scikit-learn, PyTorch, TensorFlow, pandas, statistical modeling, NLP
+- **Data Engineering:** Azure Databricks, Azure Data Factory, PySpark
+- **Visualization:** Power BI, Tableau, Matplotlib, ggplot2
+
+## Projects
+
+- **[Climate Change Sentiment Analysis](https://github.com/sibala25/Climate-Change-Sentiment-Analysis)** — Analyzed the relationship between climate change stances and sentiment in tweets using NLP and statistical tests.
+- **[Sign Language Recognition](https://github.com/sibala25/Sign-Language-Recognition)** — Led an NSDC team project exploring classification of ASL hand gestures.
+- **[Undergraduate Coursework](https://github.com/sibala25/Undergraduate-Coursework)** — Selected projects and assignments in machine learning, AI, algorithms, statistics, and computer science.
+- **[Data Journalism](https://github.com/sibala25/Data-Journalism)** — Published data-driven articles on sports and consumer behavior, including original R analysis.
+- **[Data Analytics](https://github.com/sibala25/Data-Analytics)** — Applied projects involving public-health data, movie analysis, and a Google Data Analytics capstone.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/aashna-sibal/) · [Email](mailto:aashnasibal@gmail.com)
