@@ -21,4 +21,4 @@ I enjoy finding patterns in data, understanding what drives them, and using thos
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/aashna-sibal/) · [Email](mailto:aashnasibal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aashna-sibal/) · Email: aashnasibal@gmail.com
